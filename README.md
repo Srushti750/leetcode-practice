@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Srushti750/leetcode-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Srushti750/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srushti750/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Srushti750/leetcode-practice/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srushti750/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
