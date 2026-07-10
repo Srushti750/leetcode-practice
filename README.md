@@ -24,6 +24,7 @@
 | [0027-remove-element](https://github.com/Srushti750/leetcode-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Srushti750/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Srushti750/leetcode-practice/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Srushti750/leetcode-practice/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srushti750/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Srushti750/leetcode-practice/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Srushti750/leetcode-practice/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti750/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Srushti750/leetcode-practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
