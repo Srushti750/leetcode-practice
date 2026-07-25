@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Srushti750/leetcode-practice/tree/master/0066-plus-one) |
+| [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srushti750/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
