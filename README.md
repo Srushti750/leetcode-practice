@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Srushti750/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Srushti750/leetcode-practice/tree/master/0066-plus-one) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -35,10 +36,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Srushti750/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti750/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Srushti750/leetcode-practice/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti750/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Srushti750/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Srushti750/leetcode-practice/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
