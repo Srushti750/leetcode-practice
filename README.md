@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Srushti750/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Srushti750/leetcode-practice/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -31,6 +32,7 @@
 | [0118-pascals-triangle](https://github.com/Srushti750/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Srushti750/leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srushti750/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srushti750/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
