@@ -41,12 +41,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti750/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Srushti750/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Srushti750/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Srushti750/leetcode-practice/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti750/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Srushti750/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Srushti750/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Srushti750/leetcode-practice/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srushti750/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Srushti750/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Srushti750/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
