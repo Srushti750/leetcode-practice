@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srushti750/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Srushti750/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti750/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0217-contains-duplicate](https://github.com/Srushti750/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srushti750/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti750/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -99,4 +101,8 @@
 | [0118-pascals-triangle](https://github.com/Srushti750/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Srushti750/leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srushti750/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti750/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
