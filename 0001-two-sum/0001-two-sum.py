@@ -1,15 +1,16 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        dict = {}
-        for i in range(len(nums)):
-            num = nums[i]
-            sum = target - num
-            if sum in dict:
-                return (dict[sum], i)
-            dict[num] = i
-        return []
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        # result = []
+        # for i in range(0, len(nums)-1):
+        #     if(nums[i]+nums[i+1] == target):
+        #         result.append(i)
+        #         result.append(i+1)
+        # return result
+        
+        result = []
+        for i in range(0, len(nums)-1):
+            for j in range(i+1, len(nums)):
+                if (nums[i]+nums[j] == target):
+                    result.append(i)
+                    result.append(j)
+        return result
