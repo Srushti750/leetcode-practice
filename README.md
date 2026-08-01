@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Srushti750/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Srushti750/leetcode-practice/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Srushti750/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti750/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Srushti750/leetcode-practice/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Srushti750/leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srushti750/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Srushti750/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0486-predict-the-winner](https://github.com/Srushti750/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srushti750/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti750/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -108,6 +111,7 @@
 | [0118-pascals-triangle](https://github.com/Srushti750/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Srushti750/leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srushti750/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Srushti750/leetcode-practice/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,4 +126,8 @@
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti750/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Srushti750/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Srushti750/leetcode-practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
