@@ -16,6 +16,7 @@
 | [0877-stone-game](https://github.com/Srushti750/leetcode-practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Srushti750/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti750/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Srushti750/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Srushti750/leetcode-practice/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Srushti750/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
