@@ -9,10 +9,22 @@ class Solution:
             "D": 500,
             "M": 1000
         }
-        total = 0
+
+        result = 0
         for i in range(len(s)):
-            if i<len(s)-1 and roman[s[i]]<roman[s[i+1]]:
-                total = total - roman[s[i]]
+            if i<len(s)-1 and roman[s[i]] < roman[s[i+1]]:
+                result = result - roman[s[i]]
             else:
-                total = total + roman[s[i]]
-        return total
+                result = result + roman[s[i]]
+        return result
+
+
+
+
+        # total = 0
+        # for i in range(len(s)):
+        #     if i<len(s)-1 and roman[s[i]]<roman[s[i+1]]:
+        #         total = total - roman[s[i]]
+        #     else:
+        #         total = total + roman[s[i]]
+        # return total
