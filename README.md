@@ -70,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti750/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Srushti750/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Srushti750/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Srushti750/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Srushti750/leetcode-practice/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti750/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti750/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -203,4 +204,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Srushti750/leetcode-practice/tree/master/1510-stone-game-iv) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Srushti750/leetcode-practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Srushti750/leetcode-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
