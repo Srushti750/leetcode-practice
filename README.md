@@ -59,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/Srushti750/leetcode-practice/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srushti750/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti750/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Srushti750/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Srushti750/leetcode-practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -69,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/Srushti750/leetcode-practice/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti750/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti750/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Srushti750/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Srushti750/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Srushti750/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti750/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Srushti750/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
