@@ -47,6 +47,7 @@
 | [1140-stone-game-ii](https://github.com/Srushti750/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti750/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti750/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srushti750/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srushti750/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Srushti750/leetcode-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -57,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/Srushti750/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Srushti750/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srushti750/leetcode-practice/tree/master/0242-valid-anagram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srushti750/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srushti750/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti750/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Srushti750/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti750/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srushti750/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Srushti750/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
