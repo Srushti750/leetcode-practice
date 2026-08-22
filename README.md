@@ -24,6 +24,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Srushti750/leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srushti750/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srushti750/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Srushti750/leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
