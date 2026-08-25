@@ -19,6 +19,7 @@
 | [1140-stone-game-ii](https://github.com/Srushti750/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti750/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti750/leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Srushti750/leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srushti750/leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Srushti750/leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti750/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -55,6 +56,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Srushti750/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Srushti750/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti750/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/Srushti750/leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Srushti750/leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srushti750/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srushti750/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -156,6 +158,7 @@
 | [1140-stone-game-ii](https://github.com/Srushti750/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti750/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti750/leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Srushti750/leetcode-practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Srushti750/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
@@ -184,6 +187,7 @@
 | [1140-stone-game-ii](https://github.com/Srushti750/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti750/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti750/leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Srushti750/leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srushti750/leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Srushti750/leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -192,6 +196,7 @@
 | [1140-stone-game-ii](https://github.com/Srushti750/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti750/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti750/leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Srushti750/leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Srushti750/leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -199,6 +204,7 @@
 | [1140-stone-game-ii](https://github.com/Srushti750/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti750/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti750/leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Srushti750/leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Srushti750/leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
@@ -220,6 +226,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Srushti750/leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Srushti750/leetcode-practice/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
