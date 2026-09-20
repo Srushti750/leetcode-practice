@@ -14,3 +14,4 @@ class Solution:
                     result.append(i)
                     result.append(j)
         return result
+        
