@@ -24,6 +24,7 @@ class Solution(object):
 
             current.next = ListNode(digit)
             current = current.next
+            
 
             if l1: l1 = l1.next
             if l2: l2 = l2.next
